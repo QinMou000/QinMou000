@@ -1,16 +1,26 @@
-## Hi there 👋
+<table style="border: none;">
+  <tr>
+    <td>
 
-<!--
-**QinMou000/QinMou000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, here's *Qin*👨‍💻:
 
-Here are some ideas to get you started:
+- 🎓 2023 Chongqing University of Technology Robotics engineering student 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :mailbox: You can reach me with the links below  
+  
+X :[![X (formerly Twitter) Follow](https://x.com/qnwng158725?t=bzb0zxbcn0sBisl0nVS7WQ&s=05) 
+</br></br>
+email: wqin12356@gmail.com
+</br></br>
+</br></br>
+
+## Overall Status
+
+[![QinMou's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ue-dnd&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)](https://github.com/UE-DND)
+
+</td>
+    <td style="border: none; vertical-align: top;">
+        <img src="image.jpg" alt="image" width="500"/>
+    </td>
+  </tr>
+</table>
