@@ -7,8 +7,8 @@
 - 🎓 2023 Chongqing University of Technology
 - 🤖 Robotics engineering student 
 
-- :mailbox: 📮 Contact me:
-email: wqin12356@gmail.com
+- 📮 Contact me:
+wqin12356@gmail.com
 </br></br>
 </br></br>
 
