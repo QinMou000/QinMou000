@@ -4,8 +4,8 @@
 
 ## Hi, here's *Qin*👨‍💻:
 
-- 🎓 2023 Chongqing University of Technology
-- 🤖 Robotics engineering student 
+- 🎓 Chongqing University of Technology
+- 🤖 2023 Robotics engineering student 
 
 - 📮 Contact me:
 wqin12356@gmail.com
