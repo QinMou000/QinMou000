@@ -1,23 +1,58 @@
-<table style="border: none;">
-  <tr>
-    <td>
+```
+    ____        _               __     __      __          
+   / __ \____ _(_)_______  ____/ /    / /___  / /____  _____
+  / /_/ / __ `/ / ___/ _ \/ __  /    / / __ \/ __/ _ \/ ___/
+ / ____/ /_/ / / /  /  __/ /_/ /    / / /_/ / /_/  __/ /    
+/_/    \__,_/_/_/   \___/\__,_/____/_/\____/\__/\___/_/     
+                     /_____/                               
+```
 
-## Hi, here's *Qin*👨‍💻:
+---
 
-- 🎓 Chongqing University of Technology
-- 🤖 2023 Robotics engineering student 
+# 👋 Hi! I'm Qin.
 
-- 📮 Contact me:
-wqin12356@gmail.com
-</br></br>
-</br></br>
+# 👨‍💻 More About Me
 
-## Overall Status
+🤠 He / Him  
+🎈 Based in `Chongqing`  
+🤔 Languages: Native in `Chinese`  
+🌏 Major in `Robotics Engineering` at `Chongqing University of Technology` (Junior)  
+🛠️ Enthusiastic about robotics development and software engineering  
+💻 Skilled in both hardware-software integration and programming  
+🗣️ Enjoy exploring open-source projects and technical communities  
 
-![QinMou's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=QinMou000&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true)
-</td>
-    <td style="border: none; vertical-align: top;">
-        <img src="flower.jpg" alt="image" width="500"/>
-    </td>
-  </tr>
-</table>
+
+---
+
+# 📫 Sites:
+
+| Site | URL |
+|------|-----|
+| Personal Homepage | http://wangruqin.site/ |
+| GitHub | https://github.com/QinMou000 |
+
+
+---
+
+# 🔮 Skills & Tools
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,ps,markdown,github,linux,windows,vscode,visualstudio,notion,typora&theme=light&perline=6)  
+
+
+---
+
+# 🍟 GitHub Stats
+
+## 📊 Language Distribution
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=donut&langs_count=8&theme=default)
+
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=[Your GitHub Username]&theme=nord&no-frame=true&column=6)
+
+## 📈 Contribution Activity
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=[Your GitHub Username]&theme=github-compact&days=180)
+
+
+---
+
+> *"Code is the bridge between ideas and reality."*
