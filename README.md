@@ -17,7 +17,7 @@
 | Site | URL |
 |------|-----|
 | Personal Homepage | http://wangruqin.site/ |
-| Blog Web | [https://github.com/QinMou000](https://qinmou000.github.io/index.html) |
+| Blog Web | https://qinmou000.github.io/index.html) |
 | GitHub | https://github.com/QinMou000 |
 ---
 
