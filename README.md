@@ -2,13 +2,13 @@
 
 # 👨‍💻 More About Me
 
-🤠 He / Him  
-🎈 Based in `Chongqing`  
-🤔 Languages: Native in `Chinese`  
-🌏 Major in `Robotics Engineering` at `Chongqing University of Technology` (Junior)  
-🛠️ Enthusiastic about robotics development and software engineering  
-💻 Skilled in both hardware-software integration and programming  
-🗣️ Enjoy exploring open-source projects and technical communities  
+- 🤠 He / Him  
+- 🎈 Based in `Chongqing`  
+- 🤔 Languages: Native in `Chinese`  
+- 🌏 Major in `Robotics Engineering` at `Chongqing University of Technology`
+- 🛠️ Enthusiastic about robotics development and software engineering  
+- 💻 Skilled in both hardware-software integration and programming  
+- 🗣️ Enjoy exploring open-source projects and technical communities  
 
 ---
 
