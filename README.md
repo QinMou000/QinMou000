@@ -1,12 +1,3 @@
-```
-    ____        _               __     __      __          
-   / __ \____ _(_)_______  ____/ /    / /___  / /____  _____
-  / /_/ / __ `/ / ___/ _ \/ __  /    / / __ \/ __/ _ \/ ___/
- / ____/ /_/ / / /  /  __/ /_/ /    / / /_/ / /_/  __/ /    
-/_/    \__,_/_/_/   \___/\__,_/____/_/\____/\__/\___/_/     
-                     /_____/                               
-```
-
 ---
 
 # 👋 Hi! I'm Qin.
@@ -29,28 +20,25 @@
 | Site | URL |
 |------|-----|
 | Personal Homepage | http://wangruqin.site/ |
+| Blog Web | [https://github.com/QinMou000](https://qinmou000.github.io/index.html) |
 | GitHub | https://github.com/QinMou000 |
-
-
----
-
-# 🔮 Skills & Tools
-
-![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,ps,markdown,github,linux,windows,vscode,visualstudio,notion,typora&theme=light&perline=6)  
-
-
 ---
 
 # 🍟 GitHub Stats
 
 ## 📊 Language Distribution
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=donut&langs_count=8&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QinMou000&layout=donut&langs_count=8&theme=default)
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=[Your GitHub Username]&theme=nord&no-frame=true&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=QinMou000&theme=nord&no-frame=true&column=6)
 
 ## 📈 Contribution Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=[Your GitHub Username]&theme=github-compact&days=180)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=QinMou000&theme=github-compact&days=180)
+
+---
+# 🔮 Skills & Tools
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,ps,markdown,github,linux,windows,vscode,visualstudio,notion,typora&theme=light&perline=6)  
 
 
 ---
