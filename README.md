@@ -17,14 +17,11 @@
 | Site | URL |
 |------|-----|
 | Personal Homepage | http://wangruqin.site/ |
-| Blog Web | https://qinmou000.github.io/index.html) |
+| Blog Web | https://qinmou000.github.io/index.html |
 | GitHub | https://github.com/QinMou000 |
 ---
 
 # 🔮 Skills & Tools
-
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,ps,markdown,github,linux,windows,vscode,visualstudio,notion,typora&theme=light&perline=6)  
-
 ---
-
 > *"Code is the bridge between ideas and reality."*
