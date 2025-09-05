@@ -21,6 +21,6 @@
 ---
 
 # 🔮 Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,ps,markdown,github,linux,windows,vscode,visualstudio,notion,typora&theme=light&perline=6)  
+![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,qt,ps,markdown,github,linux,windows,vscode,visualstudio,notion,obsidan,gmail,twitter,instagram&theme=light&perline=6)  
 ---
 > *"Code is the bridge between ideas and reality."*
