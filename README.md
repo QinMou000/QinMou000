@@ -16,11 +16,13 @@
 
 | Site | URL |
 |------|-----|
-| Blog Web | http://wangruqin.site/ |
+| Blog Web | https://qinmou000.github.io |
 | GitHub | https://github.com/QinMou000 |
 ---
 
 # 🔮 Skills & Tools
-![My Skills](https://skillicons.dev/icons?i=c,cpp,mysql,git,qt,ps,markdown,github,linux,windows,vscode,visualstudio,notion,gmail,twitter,instagram&theme=dark&perline=4)  
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,qt,html,py,md,latex,vite,vue,react,nginx,nodejs,npm,gradle,vim,sqlite,mysql,jquery,cmake,notion,clion,visualstudio,vscode,androidstudio,docker,obsidian,ps,github,git,cloudflare,apple,windows,linux,ubuntu,debian,arch,kali,instagram,twitter,gmail&theme=dark&perline=10)
+
 ---
 > *"Code is the bridge between ideas and reality."*
