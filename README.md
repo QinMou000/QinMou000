@@ -18,6 +18,8 @@
 |------|-----|
 | Blog Web | https://qinmou000.github.io |
 | GitHub | https://github.com/QinMou000 |
+| Gitee | https://gitee.com/wang-qin928 |
+
 ---
 
 # 🔮 Skills & Tools
